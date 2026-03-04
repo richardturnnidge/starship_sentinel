@@ -1,7 +1,7 @@
-# starship_sentinel
+# Starship Sentinel
 Starship game which makes heavy use of transformation buffers.
 
-press any key to move on from the splash screen.
+Press any key to move on from the splash screen.
 
 
 Select a level 1-4
