@@ -1,6 +1,8 @@
 # Starship Sentinel
 Starship game which makes heavy use of transformation buffers.
 
+This game was written in C with AgonDev.
+
 Press any key to move on from the splash screen.
 
 
