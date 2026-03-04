@@ -14,3 +14,9 @@ A to fire
 
 Press ESC to exit the game.
 
+![](./splashscreen.png)
+
+![](./menu.png)
+
+![](./gameplay.png)
+
