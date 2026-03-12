@@ -28,6 +28,8 @@ Land back at your base station to refuel if needed.
 
 Press ESC to exit the game.
 
+As of v0.6, there is also support for a joystick or control pad on joystick port 1, or a Nunchuck controller on the i2c bus.
+
 ![](./splashscreeen.png)
 
 ![](./menu.png)
